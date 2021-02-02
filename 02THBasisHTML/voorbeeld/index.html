@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!--gebaseerd op https://github.com/cdoole/styles-conference-->
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Styles Conference</title>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>
+            Styles Conference
+        </h1>
+        <p>August 24 - 26th; Chicago, IL</p>
+        <nav>Home Speakers Shedule Venue Register</nav>
+    </header>
+
+    <!-- Hero -->
+    <section>
+        <h2>Dedicated to the Craft of Building Websites</h2>
+        <p>Every year the brightest web designers and front-end developers descend on Chicago to discuss the latest
+            technologies. Join us this August!</p>
+        <p>Register Now</p>
+    </section>
+
+    <!-- Speakers -->
+    <main>
+        <section>
+            <h3>World-Class Speakers</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus modi, itaque praesentium quaerat
+            recusandae delectus ipsum nesciunt, quo unde veniam quis harum sapiente. Deserunt iste aliquam sint iusto
+            veritatis distinctio.</p>
+        </section>
+
+        <section>
+            <h3>Three Inspiring Days</h3>
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus modi, itaque praesentium quaerat
+                recusandae delectus ipsum nesciunt, quo unde veniam quis harum sapiente. Deserunt iste aliquam sint iusto
+                veritatis distinctio.
+            </p>
+        </section>
+
+        <section>
+            <h3>The Chicago Theatre</h3>
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus modi, itaque praesentium quaerat
+                recusandae delectus ipsum nesciunt, quo unde veniam quis harum sapiente. Deserunt iste aliquam sint iusto
+                veritatis distinctio.
+            </p>
+        </section>
+    </main>
+
+
+    <!-- Footer -->
+    <footer>
+        <p>Styles Conference</p>
+        <nav>t f s l i m</nav>
+    </footer>
+
+</body>
+
+</html>
